@@ -16,4 +16,4 @@ Projeto construido do evento Next level Week da Rocketseat.
 
 ## 📧 Contato
 
-millernoner@gmail.com
+millerandvitir@gmail.com
